@@ -1,6 +1,6 @@
 # RESTAURANT DOCKER EXAMPLE
 
-for Existmaster
+for Existmaster2
 
 ## For build
 `docker build -t existmaster/restaurant-rest .`
