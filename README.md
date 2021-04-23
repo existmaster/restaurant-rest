@@ -1,4 +1,5 @@
 # RESTAURANT DOCKER EXAMPLE
+[![Build Status](https://www.travis-ci.com/existmaster/restaurant-rest.svg?branch=master)](https://www.travis-ci.com/existmaster/restaurant-rest)
 
 for Existmaster2
 
